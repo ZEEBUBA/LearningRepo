@@ -14,4 +14,6 @@ newlist.append('cherry')
 newlist.append('mango')
 newlist.append('sugarcane')
 newlist.append('pineapple')
+#i added a new fruit
+newlist.apend('pear')
 print(newlist)
