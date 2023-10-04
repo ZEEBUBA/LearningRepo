@@ -1,0 +1,12 @@
+70
+56
+66
+88
+59
+76
+64
+66
+48
+67
+
+Above is the list of student score
